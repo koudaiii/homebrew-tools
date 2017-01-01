@@ -4,7 +4,7 @@ class Kubeps < Formula
   desc ""
   homepage "https://github.com/koudaiii/kubeps"
   url "https://github.com/koudaiii/kubeps/releases/download/#{VERSION}/kubeps-#{VERSION}-darwin-amd64.tar.gz"
-  sha256 "272d95c618b47138dd686ed8b03ef129a9db28541579f1d11b86bd6426e9d926"
+  sha256 "71e1ea00bcd514a78ff4250d520282385c930a3f8f79d76579e239dd2d03889c"
 
   def install
     bin.install "kubeps"
