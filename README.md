@@ -1,5 +1,6 @@
 # homebrew-koudaiii
-Homebrew recipes of koudaiii
+
+[![Build Status](https://travis-ci.org/koudaiii/homebrew-koudaiii.svg?branch=master)](https://travis-ci.org/koudaiii/homebrew-koudaiii)
 
 ## Installation
 
