@@ -1,11 +1,11 @@
-# homebrew-koudaiii
+# homebrew-tools
 
-[![Build Status](https://travis-ci.org/koudaiii/homebrew-koudaiii.svg?branch=master)](https://travis-ci.org/koudaiii/homebrew-koudaiii)
+[![Build Status](https://travis-ci.org/koudaiii/homebrew-tools.svg?branch=master)](https://travis-ci.org/koudaiii/homebrew-tools)
 
 ## Installation
 
 ```bash
-$ brew tap koudaiii/koudaiii
+$ brew tap koudaiii/tools
 ```
 
 ## Available tools
