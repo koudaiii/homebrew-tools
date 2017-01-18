@@ -1,10 +1,10 @@
 class Dockerepos < Formula
-  VERSION = "v0.1.0"
+  VERSION = "v0.2.0"
 
   desc ""
   homepage "https://github.com/koudaiii/dockerepos"
   url "https://github.com/koudaiii/dockerepos/releases/download/#{VERSION}/dockerepos-#{VERSION}-darwin-amd64.tar.gz"
-  sha256 "2403fa983fa34125a5fec12236dde48669843d2849cb5f955c773c39c868c4ef"
+  sha256 "e68d1eb73bdb2db281bd70126840453030aaea88669dee62e8b27be7323d7cd6"
 
   def install
     bin.install "dockerepos"
