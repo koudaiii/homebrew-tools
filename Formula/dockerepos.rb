@@ -1,4 +1,4 @@
-class Dockerepos < Formula
+class Qcli < Formula
   VERSION = "v0.2.0"
 
   desc ""
