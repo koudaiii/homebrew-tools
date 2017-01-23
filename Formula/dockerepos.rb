@@ -1,5 +1,5 @@
 class Qcli < Formula
-  VERSION = "v0.2.0"
+  VERSION = "v0.3.0"
 
   desc ""
   homepage "https://github.com/koudaiii/qcli"
