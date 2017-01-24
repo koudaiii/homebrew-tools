@@ -13,7 +13,7 @@ $ brew tap koudaiii/tools
 | Name | Description | Version |
 |------|-------------|---------|
 | [kubeps](https://github.com/koudaiii/kubeps) | Get Container status and image tag in Kubernetes  | [v0.2.1](https://github.com/koudaiii/kubeps/releases/tag/v0.2.1) |
-| [qcli](https://github.com/koudaiii/qcli) | Manage repository in Quay | [v0.2.0](https://github.com/koudaiii/qcli/releases/tag/v0.2.0) |
+| [qucli](https://github.com/koudaiii/qucli) | Manage repository in Quay | [v0.2.0](https://github.com/koudaiii/qucli/releases/tag/v0.2.0) |
 
 
 ## How to Release
