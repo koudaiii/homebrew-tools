@@ -1,7 +1,7 @@
 class Kubeps < Formula
   VERSION = "0.2.1".freeze
 
-  desc ""
+  desc "Get container image tag for Kubernetes Pods"
   homepage "https://github.com/koudaiii/kubeps"
   url "https://github.com/koudaiii/kubeps/releases/download/v#{VERSION}/kubeps-v#{VERSION}-darwin-amd64.tar.gz"
   version VESION
