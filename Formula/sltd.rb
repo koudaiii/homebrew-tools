@@ -1,4 +1,4 @@
-class Kubeps < Formula
+class Sltd < Formula
   VERSION = "0.0.1".freeze
 
   desc "Tag ELB from service label in kubernetes cluster for Datadog monitoring."
