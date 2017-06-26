@@ -12,6 +12,6 @@ class Sltd < Formula
   end
 
   test do
-    system "#{bin}/stld", "-v"
+    system "#{bin}/sltd", "-v"
   end
 end
