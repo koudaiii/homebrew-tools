@@ -3,7 +3,7 @@
 set -eu
 set -o pipefail
 
-usage='Usage: script/check-sha256sum TARBALL_URL'
+usage='Usage: script/check-sha256sum https://github.com/koudaiii/#{TOOL}/releases/download/#{VERSION}/#{TOOL}-#{VERSION}-darwin-amd64.tar.gz'
 
 if [ `uname` != 'Darwin' ]; then
   echo 'Please run this script on OS X machine.' >&2
