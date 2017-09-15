@@ -12,16 +12,16 @@ $ brew tap koudaiii/tools
 
 | Name | Description | Version |
 |------|-------------|---------|
-| [kubeps](https://github.com/koudaiii/kubeps) | Get Container status and image tag in Kubernetes  | [v0.2.1](https://github.com/koudaiii/kubeps/releases/tag/v0.2.1) |
+| [kubeps](https://github.com/koudaiii/kubeps) | Get Container status and image tag in Kubernetes  | [v0.2.3](https://github.com/koudaiii/kubeps/releases/tag/v0.2.3) |
 | [qucli](https://github.com/koudaiii/qucli) | Manage repository in Quay | [v0.4.0](https://github.com/koudaiii/qucli/releases/tag/v0.4.0) |
-| [sltd](https://github.com/koudaiii/sltd) | Tag ELB from service label in kubernetes cluster for Datadog monitoring. | [v0.0.1](https://github.com/koudaiii/sltd/releases/tag/v0.0.1) |
+| [sltd](https://github.com/koudaiii/sltd) | Tag ELB from service label in kubernetes cluster for Datadog monitoring. | [v0.2.0](https://github.com/koudaiii/sltd/releases/tag/v0.2.0) |
 
 ## How to Release
 
 - Create branch
 - Set up version
 - `$ shasum -a 256  ~/Download/hoge.zip`
-- Check `$ script/check-sha256sum https://github.com/koudaiii/hoge/releases/download/$VERSION/hoge.zip`
+- Check `$ script/check-sha256sum https://github.com/koudaiii/#{TOOL}/releases/download/#{VERSION}/#{TOOL}-#{VERSION}-darwin-amd64.tar.gz`
 
 ## Author
 
