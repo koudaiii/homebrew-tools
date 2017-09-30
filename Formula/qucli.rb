@@ -1,5 +1,5 @@
 class Qucli < Formula
-  VERSION = "0.4.0".freeze
+  VERSION = "0.5.0".freeze
 
   desc "Manage repositories in Quay.io"
   homepage "https://github.com/koudaiii/qucli"
