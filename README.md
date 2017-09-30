@@ -20,8 +20,7 @@ $ brew tap koudaiii/tools
 
 - Create branch
 - Set up version
-- `$ shasum -a 256  ~/Download/hoge.zip`
-- Check `$ script/check-sha256sum https://github.com/koudaiii/#{TOOL}/releases/download/#{VERSION}/#{TOOL}-#{VERSION}-darwin-amd64.tar.gz`
+- Check `$ curl -L https://github.com/koudaiii/#{TOOL}/releases/download/#{VERSION}/#{TOOL}-#{VERSION}-darwin-amd64.tar.gz > file.tar.gz && shasum -a 256 file.tar.gz`
 
 ## Author
 
