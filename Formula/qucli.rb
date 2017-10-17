@@ -1,11 +1,11 @@
 class Qucli < Formula
-  VERSION = "0.5.0".freeze
+  VERSION = "0.6.2".freeze
 
   desc "Manage repositories in Quay.io"
   homepage "https://github.com/koudaiii/qucli"
   url "https://github.com/koudaiii/qucli/releases/download/v#{VERSION}/qucli-v#{VERSION}-darwin-amd64.tar.gz"
   version VERSION
-  sha256 "a169019e4fffbaa2dd940c1cc422dc5900a672cd3514110302dc4f6b551f3c2c"
+  sha256 "a62a4968cc8bfe69b6ffdae1b12b94dbfed0a63367590c302250640ae1826848"
 
   def install
     bin.install "qucli"
