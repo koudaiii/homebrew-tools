@@ -10,11 +10,11 @@ $ brew tap koudaiii/tools
 
 ## Available tools
 
-| Name | Description | Version |
-|------|-------------|---------|
-| [kubeps](https://github.com/koudaiii/kubeps) | Get Container status and image tag in Kubernetes  | [v0.2.3](https://github.com/koudaiii/kubeps/releases/tag/v0.2.3) |
-| [qucli](https://github.com/koudaiii/qucli) | Manage repository in Quay | [v0.6.5](https://github.com/koudaiii/qucli/releases/tag/v0.6.5) |
-| [sltd](https://github.com/koudaiii/sltd) | Tag ELB from service label in kubernetes cluster for Datadog monitoring. | [v0.2.0](https://github.com/koudaiii/sltd/releases/tag/v0.2.0) |
+| Name                                         | Description                                                              | Version                                                          |
+| -------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [kubeps](https://github.com/koudaiii/kubeps) | Get Container status and image tag in Kubernetes                         | [v0.2.3](https://github.com/koudaiii/kubeps/releases/tag/v0.2.3) |
+| [qucli](https://github.com/koudaiii/qucli)   | Manage repository in Quay                                                | [v0.6.6](https://github.com/koudaiii/qucli/releases/tag/v0.6.6)  |
+| [sltd](https://github.com/koudaiii/sltd)     | Tag ELB from service label in kubernetes cluster for Datadog monitoring. | [v0.2.0](https://github.com/koudaiii/sltd/releases/tag/v0.2.0)   |
 
 ## How to Release
 
